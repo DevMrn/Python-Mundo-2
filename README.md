@@ -1,2 +1,2 @@
-# Python-Mundo-2
-Python (Mundo 2) - Gustavo Guanabara
+# Estudos com a Linguagem Python
+Aqui estão os exercícios e anotações do curso de Python (Mundo 2) do Gustavo Guanabara.
